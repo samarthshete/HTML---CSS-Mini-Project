@@ -68,14 +68,14 @@ Users should be able to:
   
 ### Screenshot
 
-![](./assets/Website Screenshots/1.png)
-![](./assets/Website Screenshots/2.png)
-![](./assets/Website Screenshots/3.png)
-![](./assets/Website Screenshots/4.png)
-![](./assets/Website Screenshots/5.png)
-![](./assets/Website Screenshots/6.png)
-![](./assets/Website Screenshots/7.png)
-![](./assets/Website Screenshots/8.png)
+![Demo1](./assets/Website Screenshots/1.png)
+![Demo2](./assets/Website Screenshots/2.png)
+![Demo3](./assets/Website Screenshots/3.png)
+![Demo4](./assets/Website Screenshots/4.png)
+![Demo5](./assets/Website Screenshots/5.png)
+![Demo6](./assets/Website Screenshots/6.png)
+![Demo7](./assets/Website Screenshots/7.png)
+![Demo8](./assets/Website Screenshots/8.png)
 
 ### Links
  
